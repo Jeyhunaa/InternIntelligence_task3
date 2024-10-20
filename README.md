@@ -1,1 +1,1 @@
-# Jeyhunaa-InternIntelligence_task3
+# InternIntelligence_task3
